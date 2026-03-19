@@ -26,7 +26,7 @@
 
 ## 🛠 Installation
 1. Go to the **[Releases]** tab on the right side of this GitHub repository.
-2. Download the latest **V1.5 ADV `.bin`** file.
+2. Download the latest **Wi-Fi Radar ADV `.bin`** file.
 3. Flash it to your M5Stack Cardputer using **M5Burner** (via the local file option) or the official **Espressif ESP32 Download Tool**.
 
 ---
@@ -67,7 +67,7 @@ Scans all 13 channels simultaneously, displaying every device in your vicinity.
 
 ---
 
-## 🆕 V1.5 ADV Changelog
+## 🆕 Wi-Fi Radar ADV (V1.5) Changelog
 * **Major Overhaul:** Transitioned from Passive Scanning to Active Probing.
 * **UI/UX:** Added fully transparent HUD elements over a scrolling Raw Data Stream background.
 * **Power Management:** Replaced generic battery reading with an Exponential Moving Average (EMA) mathematical filter. The battery percentage no longer jumps erratically under heavy CPU load.
