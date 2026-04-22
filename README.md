@@ -44,7 +44,7 @@ Before using the BLE Radar, please understand the physical and cryptographic lim
 
 ### Method 2: Manual Flashing
 1. Go to the **[Releases]** tab of this repository.
-2. Download the **`merged.bin`** (full 8MB flash dump) or the standard app bin.
+2. Download the **`merged.bin`** (full 4B flash dump) or the standard app bin.
 3. Flash to your Cardputer using **M5Burner** (Local File) or **esptool**.
 
 ---
